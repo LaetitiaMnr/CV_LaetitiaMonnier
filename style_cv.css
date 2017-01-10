@@ -1,0 +1,57 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.Titre{
+	color: black;
+	text-align: center;
+	font-family: 'Arizonia', serif, Arial;
+	font-size: 215%;
+}
+
+body{
+	background: url("images/chibi moi2.png") fixed no-repeat top left 10px, url("images/abstract2.jpg") fixed repeat center;
+}
+
+li{
+	text-align: center;
+	padding-bottom: 2px;
+	margin-top: 2%;
+	font-size: 120%;
+}
+
+p{
+	color: black; 
+	font-family: 'Arima Madurai', cursive;
+	text-align: center;
+	padding: 2px;
+    border-radius: 8px;
+    background: url(https://images.freecreatives.com/wp-content/uploads/2016/01/Free-Watercolor-Paper-Texture.jpg);
+    display: block;
+    width: 35%;
+    margin: auto;
+    padding-bottom: 1%;
+	margin-top: 1%;
+	text-decoration: none;
+	background-position: left;
+    background-repeat: repeat; 
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: red;
+}
+
+a:hover{
+	color: darkblue;
+}
+
+footer{
+	text-align: center;
+	margin: 0;
+	padding-top: 140px;
+}
